@@ -1,16 +1,9 @@
 # black_jack
 
-A new Flutter project.
+Игра Black jack с использованием Maps и GridView. Также сделан кастомный widget.
 
-## Getting Started
+Blackjack game using Maps and GridView. Also made a custom widget.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/ZeAs4c/black_jack/assets/59208681/a0289f25-03d9-4d1c-8885-d537faba1324)
+![image](https://github.com/ZeAs4c/black_jack/assets/59208681/b0635ba9-d0a4-4824-bf10-a82ddcc6db55)
+![image](https://github.com/ZeAs4c/black_jack/assets/59208681/7661261e-708e-4404-8265-0811e6d9e101)
